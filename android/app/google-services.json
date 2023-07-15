@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129155296792",
+    "project_id": "oym-oman",
+    "storage_bucket": "oym-oman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129155296792:android:24df5c7df55e6f7ffb9d6d",
+        "android_client_info": {
+          "package_name": "com.nowras.oym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129155296792-v6jl29m3oe2mtr71777i7g1n6lspetdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidQuqYMB7WFdYvDGdNRgUdfNEx-2QRPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129155296792-v6jl29m3oe2mtr71777i7g1n6lspetdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
